@@ -1,5 +1,6 @@
 # Quantitative-Finance-Final-Project
 
+```mermaid
 flowchart TB
 
   %% Collection
@@ -68,3 +69,4 @@ flowchart TB
   classDef store fill:#f3eefc,stroke:#9b59b6;
   classDef mlstore fill:#e6e0fa,stroke:#7e57c2;
   classDef viz fill:#fdecec,stroke:#e57373;
+```
